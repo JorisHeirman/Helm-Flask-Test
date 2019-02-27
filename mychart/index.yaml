@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-02-27T15:16:21.820497+01:00
+    description: A Helm chart for Kubernetes
+    digest: f175d779f7ce3c5e20ba4a578b00fe8326719f117a3d89c3a1a5aed034f55b04
+    name: mychart
+    urls:
+    - mychart-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-02-27T15:16:21.818144+01:00
